@@ -1,0 +1,23 @@
+id,status,notes
+GOV-01,implemented,Policies approved by board in 2026
+GOV-02,implemented,
+RSK-01,partial,Risk register exists but not reviewed annually
+AST-01,partial,Inventory incomplete for cloud assets
+IAM-01,implemented,
+IAM-02,partial,MFA missing on some VPN accounts
+IAM-03,not_implemented,No periodic review process
+CFG-01,implemented,
+NET-01,implemented,
+CRY-01,implemented,
+MAL-01,implemented,
+VUL-01,partial,Patching SLA not enforced
+VUL-02,not_implemented,
+SDL-01,partial,
+CHG-01,implemented,
+LOG-01,implemented,
+LOG-02,not_implemented,No SIEM or alerting
+INC-01,partial,Plan not tested
+BCP-01,implemented,
+SUP-01,not_implemented,
+AWR-01,implemented,
+PHY-01,not_applicable,Fully cloud hosted
